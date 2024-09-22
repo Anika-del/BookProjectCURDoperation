@@ -1,0 +1,16 @@
+BOOKDemo Project demo
+
+//Mave mysql
+https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.22
+
+//Youtube project video
+https://www.youtube.com/watch?v=_8aRkeAoPT0&list=PLCWQNLd8T4_jRY4Aw5n59ALgLd96fCITT
+
+//code
+https://medium.com/@idiotN/book-shop-application-using-advanced-java-86499262a6b1
+
+//bootstrap
+https://getbootstrap.com/docs/4.3/getting-started/download/
+
+//Url
+http://localhost:8080/BookDemo/register
